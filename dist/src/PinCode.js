@@ -538,7 +538,7 @@ const styles = react_native_1.StyleSheet.create({
     grid: {
         justifyContent: 'flex-start',
         width: "100%",
-        flex: 7
+        flex: 10
     }
 });
 exports.default = PinCode;
